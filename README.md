@@ -4,4 +4,5 @@
 <ol>
   <li>Rock vs Mine Project</li>
   <li>Diabetes prediction</li>
+  <li>House price prediction</li>
 </ol>
